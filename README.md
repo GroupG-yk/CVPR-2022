@@ -40,6 +40,7 @@ Defocus deblurring is a challenging task due to the spatially varying nature of 
 
 
 ###  Dancing under the stars: video denoising in starlight
+
 Kristina Monakhova   Stephan R. Richter  Laura Waller  Vladlen Koltun
 UC Berkeley            Intel Labs        UC Berkeley     Intel Labs
 
@@ -54,6 +55,7 @@ GAN-tuned physics-based noise model to more accurately  represent camera noise a
 ## 深度估计/Depth Estimation
 
 ### Occlusion-Aware Cost Constructor for Light Field Depth Estimation
+
 Yingqian Wang, Longguang Wang, Zhengyu Liang, Jungang Yang, Wei An, Yulan Guo
 National University of Defense Technology
 
@@ -66,6 +68,7 @@ Matching cost construction is a key step in light field
 ## 图像复原/Image Restoration
 
 ### Deep Generalized Unfolding Networks for Image Restoration
+
 Chong Mou†, Qian Wang†, Jian Zhang†,‡
 †Peking University Shenzhen Graduate School, Shenzhen, China
 ‡Peng Cheng Laboratory, Shenzhen, China
@@ -78,6 +81,7 @@ PGD iterations to rectify the intrinsic information loss in  most deep unfolding
 
 ## 其他/Others
 ### Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection
+
 Mingtao Feng1* Kendong Liu1∗ Liang Zhang1† Hongshan Yu2 Yaonan Wang2 Ajmal Mian3
 1Xidian University, 2Hunan University, 3The University of Western Australia
 
@@ -97,7 +101,8 @@ Existing low-light image enhancement techniques are mostly not only difficult to
 ![image](https://user-images.githubusercontent.com/61666816/166952566-bd53a7a7-fd9c-4b2a-a0d7-6c1398f5cacb.png)
 
 
-SIMBAR: Single Image-Based Scene Relighting For Effective Data Augmentation For Automated Driving Vision Tasks
+### SIMBAR: Single Image-Based Scene Relighting For Effective Data Augmentation For Automated Driving Vision Tasks
+
 Xianling Zhang1*, Nathan Tseng2*, Ameerah Syed1, Rohan Bhasin1, Nikita Jaipuria1
 1Ford Greenfield Labs, Palo Alto 2University of Michigan
 
