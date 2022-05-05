@@ -113,3 +113,21 @@ For more details and relit datasets, please visit our project  website (https://
 
 ![image](https://user-images.githubusercontent.com/61666816/166953046-7043c32a-4164-44c0-a2cb-df482816cdae.png)
 
+
+
+
+
+## 有意思
+
+### Industrial Style Transfer with Large-scale Geometric Warping and Content Preservation
+
+Jinchao Yang1∗, Fei Guo1∗, Shuo Chen2, Jun Li1†, Jian Yang1
+1PCA Lab, Nanjing University of Science and Technology 2RIKEN
+
+We propose a novel style transfer method to quickly create a new visual product with a nice appearance for industrial designers’ reference. Given a source product, a target product, and an art style image, our method produces a neural warping field that warps the source shape to imitate the geometric style of the target and a neural texture transformation network that transfers the artistic style to the warped source product. Our model, Industrial Style Transfer (InST), consists of large-scale geometric warping (LGW) and interest-consistency texture transfer (ICTT). LGW aims to explore an unsupervised transformation between the shape masks of the source and target products for fitting large-scale shape warping. Furthermore, we introduce a mask smoothness regularization term to prevent the abrupt changes of the details of the source product. ICTT introduces an interest regularization term to maintain important contents of the warped product when it is stylized by using the art style image. Extensive experimental results demonstrate that InST achieves state-of-the-art performance on multiple visual product design tasks, e.g., companies' snail logos, classical bottles, flying cars, and porcelain fashions. To the best of our knowledge, we are the first to extend the neural style transfer method to create industrial product appearances.
+
+
+![image](https://user-images.githubusercontent.com/61666816/166954752-36ba4af8-5ee7-4d41-a947-ac485086dca0.png)
+![image](https://user-images.githubusercontent.com/61666816/166954850-e961f467-1e05-473c-ac27-c6294808a0a5.png)
+
+
